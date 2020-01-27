@@ -1,0 +1,15 @@
+body{
+    background-color: darkgray;
+}
+.li{
+    color: red;
+}
+#p {
+    color: green;
+}
+.coolTitle {
+    background-color: yellow;
+}
+.done {
+    text-decoration: line-through;
+}
